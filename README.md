@@ -1,16 +1,106 @@
-## Hi there 👋
+# Hi there, I'm Janvi Mittal 👋
 
-<!--
-**janvi740/janvi740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+Software Engineer with 2 years of experience developing and enhancing enterprise Java applications at Tata Consultancy Services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building backend applications using Java and Spring Boot while continuously improving my skills in system design, low-level design, and scalable software engineering.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+- Java
+- SQL
+- Python (Basic)
+
+### Backend
+- Spring Boot
+- Spring Security
+- REST APIs
+- Hibernate
+- JPA
+- JWT Authentication
+
+### Database
+- MySQL
+
+### Tools
+- Docker
+- Docker Compose
+- Git
+- Maven
+- Linux
+- Postman
+- Swagger/OpenAPI
+- JMeter
+
+### Cloud
+- AWS (EC2, S3, RDS)
+
+---
+
+## 📌 Featured Projects
+
+### 💰 Expense Flow
+
+Backend expense management application built using:
+
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- MySQL
+- Docker
+- Swagger
+- React
+
+**Features**
+
+- Secure JWT Authentication
+- Expense CRUD APIs
+- Pagination
+- Category Management
+- Dockerized Deployment
+- JMeter Load Testing
+
+---
+
+### 🔐 Encrypted Cloud Storage
+
+Secure cloud storage system built using:
+
+- Flask
+- MongoDB
+- AES-256 Encryption
+- REST APIs
+
+Features:
+
+- Searchable Encryption
+- Metadata Indexing
+- Secure Key Management
+
+---
+
+## 📚 Currently Learning
+
+- Low-Level Design
+- System Design
+
+---
+
+## 💻 Coding
+
+- Solved 135+ LeetCode problems
+- Strong focus on Java Backend Development
+
+---
+
+## 📫 Connect with me
+
+LinkedIn:
+https://www.linkedin.com/in/janvi-mittal
+
+Email:
+janvimittal979@gmail.com
